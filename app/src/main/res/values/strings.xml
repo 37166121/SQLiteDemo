@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLiteDemo</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+</resources>
